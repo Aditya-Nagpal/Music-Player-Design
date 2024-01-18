@@ -48,7 +48,7 @@
   
   .logo-img img {
     height: 10vh;
-    width: 5.8vw;
+    width: 5.6vw;
   }
   
   .logo-title {
@@ -86,6 +86,7 @@
     position: relative;
     top: -0.6rem;
     left: 39rem;
+    display: flex;
   }
   
   .form-icons {
